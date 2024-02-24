@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "DesignPatt
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Criacional", "Criacional", "{B6B423A7-4D81-4691-94D6-5318FD36B3F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{25C3383B-8726-4075-A0B8-6CF15FDF6BC8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "ConsoleApp1\AbstractFactory.csproj", "{25C3383B-8726-4075-A0B8-6CF15FDF6BC8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
