@@ -2,7 +2,7 @@
 {
     public class HotDogSimpleFactory
     {
-        public static HotDogFactory CriarFabricaDePizza(string estado)
+        public static HotDogFactory CriarFabricaDeHotDog(string estado)
         {
             switch (estado)
             {
