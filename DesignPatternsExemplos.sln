@@ -3,17 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethod", "DesignPatternsExemplos\FactoryMethod.csproj", "{A8A0F795-F8E2-445F-A7AF-62D61DB3A89E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethod", "Factory Method\FactoryMethod.csproj", "{A8A0F795-F8E2-445F-A7AF-62D61DB3A89E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Criacional", "Criacional", "{B6B423A7-4D81-4691-94D6-5318FD36B3F8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactory", "ConsoleApp1\AbstractFactory.csproj", "{25C3383B-8726-4075-A0B8-6CF15FDF6BC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactory", "Abstract Factory\AbstractFactory.csproj", "{25C3383B-8726-4075-A0B8-6CF15FDF6BC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{25093BE7-1A24-47EF-BDFD-D15AD69CD324}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton", "Singleton\Singleton.csproj", "{25093BE7-1A24-47EF-BDFD-D15AD69CD324}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{2E6838DC-C7F2-455C-A659-58932A697C16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Builder", "Builder\Builder.csproj", "{2E6838DC-C7F2-455C-A659-58932A697C16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Prototype\Prototype.csproj", "{25F76B97-27B3-4B4B-B974-B69ADC1A5163}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prototype", "Prototype\Prototype.csproj", "{25F76B97-27B3-4B4B-B974-B69ADC1A5163}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Estruturais", "Estruturais", "{592B650E-0C30-4202-ABEE-6EC8B64BA22F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{F8334939-7DE7-4937-97F3-79776B0CD0FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +45,10 @@ Global
 		{25F76B97-27B3-4B4B-B974-B69ADC1A5163}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25F76B97-27B3-4B4B-B974-B69ADC1A5163}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25F76B97-27B3-4B4B-B974-B69ADC1A5163}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8334939-7DE7-4937-97F3-79776B0CD0FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8334939-7DE7-4937-97F3-79776B0CD0FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8334939-7DE7-4937-97F3-79776B0CD0FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8334939-7DE7-4937-97F3-79776B0CD0FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,6 +59,7 @@ Global
 		{25093BE7-1A24-47EF-BDFD-D15AD69CD324} = {B6B423A7-4D81-4691-94D6-5318FD36B3F8}
 		{2E6838DC-C7F2-455C-A659-58932A697C16} = {B6B423A7-4D81-4691-94D6-5318FD36B3F8}
 		{25F76B97-27B3-4B4B-B974-B69ADC1A5163} = {B6B423A7-4D81-4691-94D6-5318FD36B3F8}
+		{F8334939-7DE7-4937-97F3-79776B0CD0FE} = {592B650E-0C30-4202-ABEE-6EC8B64BA22F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F2B95A91-0866-4022-8F77-D10204924920}
