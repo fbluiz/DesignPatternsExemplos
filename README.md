@@ -8,7 +8,7 @@ Factory Method,
 Abstract Factory,
 Singleton,
 Builder,
-Prototype,
+Prototype
 
 Padrões Estruturais:
 
