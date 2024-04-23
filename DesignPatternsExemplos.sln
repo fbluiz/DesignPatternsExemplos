@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Comp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{30EEBEDD-C7D7-4C40-9B5A-0D378A08C4BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{86EB0406-35E7-4C61-A2AD-20A3783A1F66}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{30EEBEDD-C7D7-4C40-9B5A-0D378A08C4BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30EEBEDD-C7D7-4C40-9B5A-0D378A08C4BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30EEBEDD-C7D7-4C40-9B5A-0D378A08C4BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86EB0406-35E7-4C61-A2AD-20A3783A1F66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86EB0406-35E7-4C61-A2AD-20A3783A1F66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86EB0406-35E7-4C61-A2AD-20A3783A1F66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86EB0406-35E7-4C61-A2AD-20A3783A1F66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -81,6 +87,7 @@ Global
 		{75918013-FCEE-41B2-960A-F5A2E08112F8} = {592B650E-0C30-4202-ABEE-6EC8B64BA22F}
 		{A216893E-129E-496A-B0CB-BF209C2A2A8D} = {592B650E-0C30-4202-ABEE-6EC8B64BA22F}
 		{30EEBEDD-C7D7-4C40-9B5A-0D378A08C4BC} = {592B650E-0C30-4202-ABEE-6EC8B64BA22F}
+		{86EB0406-35E7-4C61-A2AD-20A3783A1F66} = {592B650E-0C30-4202-ABEE-6EC8B64BA22F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F2B95A91-0866-4022-8F77-D10204924920}
