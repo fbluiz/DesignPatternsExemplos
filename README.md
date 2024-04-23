@@ -9,6 +9,7 @@ Abstract Factory
 Singleton
 Builder
 Prototype
+
 Padrões Estruturais:
 
 Adapter
@@ -18,6 +19,7 @@ Composite
 Decorator
 Facade
 Proxy
+
 Padrões Comportamentais:
 
 Template Method
