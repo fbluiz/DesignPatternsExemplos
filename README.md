@@ -4,32 +4,32 @@ Este repositório contém exemplos práticos de implementações dos principais 
 
 Padrões de Criação:
 
-Factory Method
-Abstract Factory
-Singleton
-Builder
-Prototype
+Factory Method,
+Abstract Factory,
+Singleton,
+Builder,
+Prototype,
 
 Padrões Estruturais:
 
-Adapter
-Flyweight
-Bridge
-Composite
-Decorator
-Facade
+Adapter,s
+Flyweight,
+Bridge,
+Composite,
+Decorator,
+Facade,
 Proxy
 
 Padrões Comportamentais:
 
-Template Method
-Interpreter
-Observer
-Visitor
-Command
-Strategy
-Chain of Responsibility
-Iterator
-Mediator
-Memento
-State
+Template Method,
+Interpreter,
+Observer,
+Visitors,
+Command,
+Strategy,
+Chain of Responsibility,
+Iterator,
+Mediator,
+Memento,
+States
