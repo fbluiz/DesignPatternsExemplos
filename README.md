@@ -12,7 +12,7 @@ Prototype,
 
 Padrões Estruturais:
 
-Adapter,s
+Adapters,
 Flyweight,
 Bridge,
 Composite,
