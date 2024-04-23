@@ -1,6 +1,6 @@
 DesignPatternsExemplos
 
-Este repositório contém exemplos práticos de implementações dos principais padrões de design em C#. Os padrões de design são soluções reutilizáveis para problemas comuns encontrados no desenvolvimento de software, e neste repositório, você encontrará exemplos claros e concisos para cada um dos seguintes tipos de padrões:
+Este repositório contém exemplos práticos de implementações dos principais padrões de projeto em C#. Os padrões de projeto são soluções reutilizáveis para problemas comuns encontrados no desenvolvimento de software, e neste repositório, você encontrará exemplos claros e concisos para cada um dos seguintes tipos de padrões:
 
 Padrões de Criação:
 
